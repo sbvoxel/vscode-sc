@@ -1,0 +1,17 @@
+{
+  "contributes": {
+    "languages": [
+      {
+        "id": "sc",
+        "extensions": [".sc"]
+      }
+    ],
+    "grammars": [
+      {
+        "language": "sc",
+        "scopeName": "source.sc",
+        "path": "./sc.tmGrammar.json"
+      }
+    ]
+  }
+}
