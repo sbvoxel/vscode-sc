@@ -1,17 +1,24 @@
 {
-  "contributes": {
+    "name": "vscode-sc",
+    "displayName": "Sc Language",
+    "description": "Language support for the Sc programming language",
+    "activationEvents": [
+        "onLanguage:sc"
+    ],
+
+    "contributes": {
     "languages": [
-      {
-        "id": "sc",
-        "extensions": [".sc"]
-      }
+        {
+            "id": "sc",
+            "extensions": [".sc"]
+        }
     ],
     "grammars": [
-      {
-        "language": "sc",
-        "scopeName": "source.sc",
-        "path": "./sc.tmGrammar.json"
-      }
+        {
+            "language": "sc",
+            "scopeName": "source.sc",
+            "path": "./sc.tmGrammar.json"
+        }
     ]
-  }
+    }
 }
