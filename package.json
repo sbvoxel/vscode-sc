@@ -19,6 +19,13 @@
             "scopeName": "source.sc",
             "path": "./sc.tmGrammar.json"
         }
-    ]
+    ],
+    "themes": [
+      {
+        "label": "Sc Custom Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sc-theme.json"
+      }
     }
+    ]
 }

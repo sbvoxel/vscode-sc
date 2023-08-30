@@ -1,0 +1,17 @@
+{
+    "name": "Sc Custom Theme",
+    "tokenColors": [
+    {
+        "scope": "keyword.control.sc",
+        "settings": {
+            "foreground": "#FF6060"
+        }
+    },
+    {
+        "scope": "storage.type.sc",
+        "settings": {
+            "foreground": "#66CCFF"
+        }
+    }
+    ]
+}
