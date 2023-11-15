@@ -7,7 +7,7 @@
 	},
 	{
 		"name": "storage.type.sc",
-		"match": "\\b(i8|i16|i32|i64|u8|u16|u32|u64|f32|f64|bool)\\b"
+		"match": "\\b(i8|i16|i32|i64|int|u8|u16|u32|u64|uint|f32|f64|bool)\\b"
 	}
 	]
 }
