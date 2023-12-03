@@ -2,13 +2,13 @@
     "name": "Sc Custom Theme",
     "tokenColors": [
     {
-        "scope": "keyword.control.sc",
+        "scope": "keyword.control",
         "settings": {
             "foreground": "#FF6060"
         }
     },
     {
-        "scope": "storage.type.sc",
+        "scope": "storage.type",
         "settings": {
             "foreground": "#66CCFF"
         }
