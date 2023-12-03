@@ -3,6 +3,9 @@
     "displayName": "Sc Language",
     "description": "Language support for the Sc programming language",
     "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.84.2"
+    },
     "categories": ["Programming Languages"],
     "activationEvents": [
         "onLanguage:sc"
