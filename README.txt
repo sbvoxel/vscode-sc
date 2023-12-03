@@ -2,6 +2,12 @@
 // and displayed in vscode's extension view.
 // So we should have a parent directory that includes this.
 
+// TODO: I'm not noticing the Golang people point to a language-configuration.json
+
+// Because Golang people have put effort into their stuff, presumably, we'll copy
+// them. They don't have a grammar for their base language, only for special files.
+// This indicates they are relying on LSP server. So we'll do that. (TODO)
+
 First steps:
 
     npm install -g @vscode/vsce
