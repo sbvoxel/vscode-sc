@@ -1,3 +1,7 @@
+// TODO: This file gets included into the package automatically
+// and displayed in vscode's extension view.
+// So we should have a parent directory that includes this.
+
 First steps:
 
     npm install -g @vscode/vsce

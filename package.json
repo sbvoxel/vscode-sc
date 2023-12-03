@@ -11,7 +11,8 @@
     "languages": [
         {
             "id": "sc",
-            "extensions": [".sc"]
+            "extensions": [".sc"],
+            "configuration": "./language-configuration.json"
         }
     ],
     "grammars": [
