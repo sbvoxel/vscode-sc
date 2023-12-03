@@ -7,9 +7,6 @@
         "vscode": "^1.84.2"
     },
     "categories": ["Programming Languages"],
-    "activationEvents": [
-        "onLanguage:sc"
-    ],
     "contributes": {
     "languages": [
         {
