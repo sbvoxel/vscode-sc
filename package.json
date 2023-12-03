@@ -2,10 +2,11 @@
     "name": "vscode-sc",
     "displayName": "Sc Language",
     "description": "Language support for the Sc programming language",
+    "version": "0.1.0",
+    "categories": ["Programming Languages"],
     "activationEvents": [
         "onLanguage:sc"
     ],
-
     "contributes": {
     "languages": [
         {
