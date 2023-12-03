@@ -3,10 +3,17 @@
 // So we should have a parent directory that includes this.
 
 // TODO: I'm not noticing the Golang people point to a language-configuration.json
+// Who knows though. Their stuff is complex.
 
 // Because Golang people have put effort into their stuff, presumably, we'll copy
 // them. They don't have a grammar for their base language, only for special files.
 // This indicates they are relying on LSP server. So we'll do that. (TODO)
+
+// Not sure. LSP semantic tokens are very new. This indicates it's not default on:
+// https://github.com/golang/vscode-go/issues/2286
+
+// Good guide on LSP semantic tokens:
+// https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide#:~:text=Semantic%20tokenization%20allows%20language%20servers,the%20syntax%20highlighting%20from%20grammars.
 
 First steps:
 
