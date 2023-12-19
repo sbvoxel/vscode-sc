@@ -18,7 +18,7 @@
             "match": "\\b(i8|i16|i32|i64|int|u8|u16|u32|u64|uint|f32|f64|bool)\\b"
         },
         {
-            "name": "storage",
+            "name": "keyword.other",
             "match": "\\b(const|extern|packed|export|pub|inline|let|var|volatile|align)\\b"
         },
         {
