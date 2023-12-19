@@ -38,6 +38,10 @@
             "match": "\\b0b[01]+(\\.[01]+)?([eE][+-]?[0-9]+)?\\b"
         },
         {
+            "name": "constant",
+            "match": "\\b(true|false|null|undefined)\\b"
+        },
+        {
           "name": "comment.line",
           "match": "//.*$"
         }
