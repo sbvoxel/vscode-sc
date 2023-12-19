@@ -6,12 +6,12 @@
             "match": "\\b(if|else|static|while|for)\\b"
         },
         {
-            "name": "keyword",
-            "match": "\\b(pub|fn|use)\\b"
+            "name": "keyword.control",
+            "match": "\\b(return|break|continue|defer)\\b"
         },
         {
-            "name": "keyword.control",
-            "match": "\\b(return|break|continue)\\b"
+            "name": "keyword",
+            "match": "\\b(pub|fn|use)\\b"
         },
         {
             "name": "storage.type.struct",
