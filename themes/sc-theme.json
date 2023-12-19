@@ -1,5 +1,5 @@
 {
-    "name": "Sc Custom Theme",
+    "name": "Sc - My Vim Theme",
     "tokenColors": [
     {
         "scope": "keyword.control",

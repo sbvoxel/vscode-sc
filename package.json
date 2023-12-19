@@ -2,7 +2,7 @@
     "name": "vscode-sc",
     "displayName": "Sc Language",
     "description": "Language support for the Sc programming language",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.84.2"
     },
@@ -24,7 +24,7 @@
     ],
     "themes": [
       {
-        "label": "Sc Custom Theme",
+        "label": "Sc - My Vim Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/sc-theme.json"
       }
