@@ -10,7 +10,7 @@
             "match": "\\b(pub|fn|use)\\b"
         },
         {
-            "name": "storage.type",
+            "name": "storage.type.struct",
             "match": "\\b(enum|struct|union)\\b"
         },
         {
