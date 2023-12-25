@@ -11,7 +11,7 @@
         },
         {
             "name": "keyword.control",
-            "match": "\\b(switch|case)\\b"
+            "match": "\\b(switch|case|default)\\b"
         },
         {
             "name": "keyword",
