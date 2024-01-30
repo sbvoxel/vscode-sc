@@ -7,7 +7,7 @@
         },
         {
             "name": "keyword.control",
-            "match": "\\b(return|break|continue|defer)\\b"
+            "match": "\\b(return|break|continue|yield|defer)\\b"
         },
         {
             "name": "keyword.control",
