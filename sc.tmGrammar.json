@@ -3,7 +3,7 @@
 	"patterns": [
         {
             "name": "keyword.control",
-            "match": "\\b(if|else|static|while|for)\\b"
+            "match": "\\b(if|else|orelse|static|while|for)\\b"
         },
         {
             "name": "keyword.control",
