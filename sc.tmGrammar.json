@@ -15,7 +15,7 @@
         },
         {
             "name": "keyword",
-            "match": "\\b(pub|fn|use)\\b"
+            "match": "\\b(pub|fn|use|interface|trait)\\b"
         },
         {
             "name": "storage.type.struct",
