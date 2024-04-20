@@ -15,7 +15,7 @@
         },
         {
             "name": "keyword",
-            "match": "\\b(pub|fn|use|interface|trait|abort|assert|check)\\b"
+            "match": "\\b(pub|fn|use|import|interface|trait|abort|assert|check)\\b"
         },
         {
             "name": "storage.type.struct",
