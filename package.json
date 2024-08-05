@@ -2,6 +2,7 @@
     "name": "vscode-sc",
     "displayName": "Sc Language",
     "description": "Language support for the Sc programming language",
+    "publisher": "not-applicable",
     "version": "0.1.1",
     "engines": {
         "vscode": "^1.84.2"
@@ -19,7 +20,7 @@
         {
             "language": "sc",
             "scopeName": "source.sc",
-            "path": "./sc.tmGrammar.json"
+            "path": "./syntaxes/sc.tmGrammar.json"
         }
     ]
     }
