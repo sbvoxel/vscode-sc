@@ -50,8 +50,24 @@
             "match": "\\b(true|false|null|undefined)\\b"
         },
         {
-          "name": "comment.line",
-          "match": "//.*$"
+            "name": "comment.line",
+            "match": "//.*$"
+        },
+        {
+            "name": "string.quoted.single",
+            "begin": "'",
+            "end": "'"
+        },
+        {
+            "name": "string.quoted.double",
+            "begin": "\"",
+            "end": "\"",
+            "patterns": [
+                {
+                    "name": "constant.character.escape",
+                    "match": "\\\\."
+                }
+            ]
         }
 	]
 }
