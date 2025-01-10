@@ -27,7 +27,7 @@
         },
         {
             "name": "keyword.other",
-            "match": "\\b(const|extern|packed|export|pub|inline|let|var|volatile|align)\\b"
+            "match": "\\b(const|extern|packed|export|pub|inline|let|var|volatile|align|this)\\b"
         },
         {
             "name": "constant.numeric.decimal",
